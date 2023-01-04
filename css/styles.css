@@ -4056,7 +4056,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #64a19d;
+  color: #9264a1;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -4085,7 +4085,7 @@ textarea.form-control-lg {
   border-top-right-radius: 0.25rem;
 }
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #243342 #32465b #333d52;
   isolation: isolate;
 }
 .nav-tabs .nav-link.disabled {
@@ -4097,7 +4097,7 @@ textarea.form-control-lg {
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
   background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
+  border-color: #e1a748 #42698f #792f2f;
 }
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
@@ -5046,7 +5046,7 @@ textarea.form-control-lg {
 }
 
 .alert-primary {
-  color: #3c615e;
+  color: #e981fa;
   background-color: #e0eceb;
   border-color: #d1e3e2;
 }
@@ -5055,7 +5055,7 @@ textarea.form-control-lg {
 }
 
 .alert-secondary {
-  color: #463c61;
+  color: #f167da;
   background-color: #e3e0ec;
   border-color: #d5d1e3;
 }
@@ -5064,7 +5064,7 @@ textarea.form-control-lg {
 }
 
 .alert-success {
-  color: #3e745e;
+  color: rgba(139, 100, 168, 0.65);
   background-color: #e1f3eb;
   border-color: #d1ede1;
 }
@@ -5082,8 +5082,8 @@ textarea.form-control-lg {
 }
 
 .alert-warning {
-  color: #89773b;
-  background-color: #faf4e0;
+  color: #e5ba30;
+  background-color: #bbb7b7;
   border-color: #f7eed0;
 }
 .alert-warning .alert-link {
@@ -5091,12 +5091,12 @@ textarea.form-control-lg {
 }
 
 .alert-danger {
-  color: #613c3e;
-  background-color: #ece0e1;
+  color: #ff64ce;
+  background-color: #e5a8ad;
   border-color: #e3d1d2;
 }
 .alert-danger .alert-link {
-  color: #4e3032;
+  color: #ce666a;
 }
 
 .alert-light {
@@ -11562,7 +11562,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 50%, #000 100%), url("../assets/img/bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11641,7 +11641,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/leef.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
